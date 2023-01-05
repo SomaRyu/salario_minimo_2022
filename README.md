@@ -11,6 +11,8 @@ O valor utilizado da inflação para as previsões de 2022 foi a média da infla
 O modelo que apresentou o valor mais próximo ao salário mínimo de 2022 foi o sem treinamento dos dados, apresentando uma diferença de 10,64% em relação ao valor de 2022. No entanto, o modelo com treinamento dos dados demonstrou uma maior correlação entre as variáveis e o salário mínimo, com R² = 0,9714, superior ao valor obtido da correlação sem treinamento de dados (R² = 0,9659).
 
 O projeto foi desenvolvido utilizando a plataforma GoogleColab.
+
 Fontes:
+
 http://www.ipeadata.gov.br/exibeserie.aspx?stub=1&serid1739471028=1739471028
 https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?t=series-historicas
